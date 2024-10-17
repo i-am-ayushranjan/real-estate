@@ -65,7 +65,15 @@ To run the project locally, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RajAditya01/XenonStack.git
-   
+
+### screenshots
 
 ![image](https://github.com/user-attachments/assets/a5566af0-d553-4171-81b8-e25dd0076277)
+----- -
+![WhatsApp Image 2024-10-17 at 13 25 52_df27b816](https://github.com/user-attachments/assets/1bc108f8-2d4b-4b38-9e31-9069d0f028e7)
+
+![WhatsApp Image 2024-10-17 at 13 25 10_41ac07d4](https://github.com/user-attachments/assets/33e95de5-6b80-4e4a-b6ca-571a63f6faa7)
+![WhatsApp Image 2024-10-17 at 13 25 12_efead886](https://github.com/user-attachments/assets/bf65c58e-dbbe-4ff0-adef-96132264c6ff)
+![WhatsApp Image 2024-10-17 at 13 25 17_8810fe1f](https://github.com/user-attachments/assets/540a2360-d38b-4110-ae46-d943175828a7)
+![WhatsApp Image 2024-10-17 at 13 25 24_e22de3ed](https://github.com/user-attachments/assets/c89cf9e8-232c-4e8c-9e84-595ec60b41f3)
+![WhatsApp Image 2024-10-17 at 13 25 38_2443888e](https://github.com/user-attachments/assets/d232c537-a401-4ffa-84c8-6a3249b6fc57)
