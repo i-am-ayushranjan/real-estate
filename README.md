@@ -65,6 +65,7 @@ To run the project locally, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
+   git clone https://github.com/i-am-ayushranjan/real-estate
 
 ### screenshots
 
