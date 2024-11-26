@@ -1,8 +1,8 @@
 # XenonStack
 
-<h1 align="center">XenonStack</h1>
+<h1 align="center">Online Real-estate Management</h1>
 <h5 align="center">
-Welcome to XenonStack! A full-stack application designed for vacation homes and rentals.
+Welcome to Online Real estate Management! A full-stack application designed for vacation homes and rentals.
 </h5>
 
 <br/>
